@@ -2,7 +2,7 @@
 
 React ohjelmointikurssin lopputyö
 
-Clone down or Download this repository. You will need node and npm installed globally on your machine.
+Clone or Download this repository. You will need node and npm installed globally on your machine.
 
 # Installation:
 
@@ -11,7 +11,7 @@ Clone down or Download this repository. You will need node and npm installed glo
 
 # To Start Server:
 
-`npm start`
+`npm run start`
 
 # Sovelluksen kuvaus
 

@@ -1,9 +1,8 @@
 # reactLoppuHarkka
-react kurssin lopputyö
 
 React ohjelmointikurssin lopputyö
 
-Clone down this repository. You will need node and npm installed globally on your machine.
+Clone down or Download this repository. You will need node and npm installed globally on your machine.
 
 # Installation:
 

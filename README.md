@@ -4,6 +4,8 @@ React ohjelmointikurssin lopputyö, Satakunnan ammattikorkeakoulu
 
 Clone or Download this repository. You will need node and npm installed globally on your machine.
 
+netlify: https://kanye-oneliners.netlify.app/
+
 # Installation:
 
 `npm install`

@@ -1,6 +1,6 @@
-# reactLoppuHarkka
+# Kanye West Quotes
 
-React ohjelmointikurssin lopputyö
+React ohjelmointikurssin lopputyö, Satakunnan ammattikorkeakoulu
 
 Clone or Download this repository. You will need node and npm installed globally on your machine.
 
